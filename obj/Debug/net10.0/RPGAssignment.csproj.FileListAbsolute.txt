@@ -1,0 +1,15 @@
+C:\Files\Development\VSCodeProjects\RPGAssignment\bin\Debug\net10.0\RPGAssignment.exe
+C:\Files\Development\VSCodeProjects\RPGAssignment\bin\Debug\net10.0\RPGAssignment.deps.json
+C:\Files\Development\VSCodeProjects\RPGAssignment\bin\Debug\net10.0\RPGAssignment.runtimeconfig.json
+C:\Files\Development\VSCodeProjects\RPGAssignment\bin\Debug\net10.0\RPGAssignment.dll
+C:\Files\Development\VSCodeProjects\RPGAssignment\bin\Debug\net10.0\RPGAssignment.pdb
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.AssemblyInfoInputs.cache
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.AssemblyInfo.cs
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.csproj.CoreCompileInputs.cache
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.sourcelink.json
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.dll
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\refint\RPGAssignment.dll
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.pdb
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\RPGAssignment.genruntimeconfig.cache
+C:\Files\Development\VSCodeProjects\RPGAssignment\obj\Debug\net10.0\ref\RPGAssignment.dll
